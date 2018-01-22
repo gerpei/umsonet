@@ -167,3 +167,8 @@ https://586dce1287bfd.streamlock.net/tvoberfranken/tvoberfranken.stream_1/playli
 http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
 #EXTINF:-1,TVM / WWTV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8
+
+#EXTINF:-1, =========== NEU ===========
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" group-title="GERMANY",Noa 4 Hamburg
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
