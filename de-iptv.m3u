@@ -102,10 +102,7 @@ http://live.vidoo.de/live/weltderwunder/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/nickelodeon_us.png" group-title="nickelodeon",nickelodeon
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
 
-
-
-
-#EXTINF:-1,DAF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/daf.png" group-title="DAF",DAF
 http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8
 
 #EXTINF:-1,Tele Züri HD
