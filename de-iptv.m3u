@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/3sat_de.png" group-title="3sat",3sat
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/3sat_de.png" group-title="3sat",3sat
 http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/arte_de.png" group-title="arte",arte
