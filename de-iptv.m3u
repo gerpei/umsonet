@@ -141,9 +141,6 @@ http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/red-bull-tv.png" group-title="USA",Red Bull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blizztv.png" group-title="GERMANY",Blizz TV
-http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s100563q.png" group-title="GERMANY",Elbekanal
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
 
@@ -153,50 +150,37 @@ http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/bbc_news.png" group-title="WORLD NEWS",BBC World News
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 
-
-#EXTINF:-1,Blizz TV 
-http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
-
-
-#EXTINF:-1,Tide TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/tidetv.png" group-title="Community TV",Tide TV
 http://62.113.210.8/tide-rtplive/mp4:liveplayout.stream/playlist.m3u8
 
-#EXTINF:-1,TV Mittelrhein
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/blizztv.png" group-title="Familie",Blizz TV
+http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
 
-
-#EXTINF:-1,sky Sport News HD
-https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/index.m3u8
-
-#EXTINF:-1,TV Baden
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/tv-baden.png" group-title="Lokal",TV Baden
 https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 
 #EXTINF:-1,TV Mittelrhein
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8
 
-#EXTINF:-1,MyTVplus
-rtmp://62.67.13.54/MyTVplus/mtvp_livestream_2.stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/sky_de_sport.png" group-title="Sport",sky Sport News HD
+https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/index.m3u8
 
-#EXTINF:-1,QS24 TV
-http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/tv-mittelrhein.png" group-title="Lokal",Mittelrhein
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8
 
-#EXTINF:-1,TVO (Ostschweizer Fernsehen)
-https://tvo.vedge.infomaniak.com/livecast/tvo/master.m3u8
-
-#EXTINF:-1,Kanal 9 HD
-https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
-
-#EXTINF:-1,Austria 24 TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/austria24.png" group-title="Lokal",Austria 24 TV
 rtmp://streaming.austria24.tv/live/mp4:stream_720p
 
-#EXTINF:-1,TVM 3
-http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
-
-#EXTINF:-1,MTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/mtv_us.png" group-title="Musik",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8
 
-#EXTINF:-1,XITE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/xite.png" group-title="Musik",XITE
 http://highvolume03.streampartner.nl/vleugels_hd6/livestream/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-1,tv38
 http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
