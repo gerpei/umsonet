@@ -30,7 +30,7 @@ http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/zdf_neo.png" group-title="ZDF neo",ZDF neo
 http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/hr_fernsehen_de.png" group-title="HR",HR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/hr_fernsehen_de.png" group-title="HR",HR
 http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/tagesschau_24.png" group-title="Tagesschau 24",Tagesschau 24
