@@ -48,58 +48,58 @@ https://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/kika_de.png" group-title="KiKa HD",KiKa HD
 https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/logos/mdr_fernsehen_sachsen.png" group-title="MDR Sachsen-Anhalt",MDR Sachsen-Anhalt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/mdr_fernsehen_sachsen.png" group-title="MDR Sachsen-Anhalt",MDR Sachsen-Anhalt
 http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/logos/mdr_fernsehen_sachsen.png" group-title="MDR Thüringen",MDR Thüringen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/mdr_fernsehen_sachsen.png" group-title="MDR Thüringen",MDR Thüringen
 http://mdr_th_hls-lh.akamaihd.net/i/livetvmdrthueringen_de@106903/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/logos/ndr_fernsehen_nds.png" group-title="NDR Hamburg",NDR Hamburg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/ndr_fernsehen_nds.png" group-title="NDR Hamburg",NDR Hamburg
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/logos/ndr_fernsehen_nds.png" group-title="NDR Mecklenburg-Vorpommern",NDR Mecklenburg-Vorpommern
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/ndr_fernsehen_nds.png" group-title="NDR Mecklenburg-Vorpommern",NDR Mecklenburg-Vorpommern
 https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_1992_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/logos/ndr_fernsehen_nds.png" group-title="NDR Niedersachsen",NDR Niedersachsen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/ndr_fernsehen_nds.png" group-title="NDR Niedersachsen",NDR Niedersachsen
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/logos/ndr_fernsehen_nds.png" group-title="Schleswig-Holstein",Schleswig-Holstein
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/ndr_fernsehen_nds.png" group-title="Schleswig-Holstein",Schleswig-Holstein
 https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_1992_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/logos/rbb_de_berlin.png" group-title="RBB Berlin",RBB Berlin
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/rbb_de_berlin.png" group-title="RBB Berlin",RBB Berlin
 https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/logos/rbb_de_berlin.png" group-title="RBB Brandenburg",RBB Brandenburg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/rbb_de_berlin.png" group-title="RBB Brandenburg",RBB Brandenburg
 https://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/logos/sr_fernsehen.png" group-title="SR HD",SR HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/sr_fernsehen.png" group-title="SR HD",SR HD
 http://livestream.sr-online.de/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/logos/swr_de_fernsehen_bw.png" group-title="SWR HD Baden-Württemberg",SWR HD Baden-Württemberg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/swr_de_fernsehen_bw.png" group-title="SWR HD Baden-Württemberg",SWR HD Baden-Württemberg
 http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/logos/swr_de_fernsehen_bw.png" group-title="SWR HD Rheinland-Pfalz",SWR HD Rheinland-Pfalz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/swr_de_fernsehen_bw.png" group-title="SWR HD Rheinland-Pfalz",SWR HD Rheinland-Pfalz
 http://swrrp-lh.akamaihd.net/i/swrrp_live@196739/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/logos/wdr_studio_duisburg.png" group-title="WDR HD",WDR HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/wdr_studio_duisburg.png" group-title="WDR HD",WDR HD
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/logos/noa_4_de_hamburg.png" group-title="NOA 4",Noa 4 Norderstedt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/noa_4_de_hamburg.png" group-title="NOA 4",Noa 4 Norderstedt
 http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/logos/bayerisches-fernsehen-de.png" group-title="BR HD",Bayerischer Rundfunk (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/bayerisches-fernsehen-de.png" group-title="BR HD",Bayerischer Rundfunk (Opt-1)
 https://br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/logos/n24.png" group-title="N24",N24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/n24.png" group-title="N24",N24
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/logos/n-tv-de.png" group-title="n-tv",n-tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/n-tv-de.png" group-title="n-tv",n-tv
 https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_1@409250/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/logos/welt_der_wunder_de.png" group-title="Welt der Wunder",Welt der Wunder
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/welt_der_wunder_de.png" group-title="Welt der Wunder",Welt der Wunder
 http://live.vidoo.de/live/weltderwunder/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/logos/nickelodeon_us.png" group-title="nickelodeon",nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/nickelodeon_us.png" group-title="nickelodeon",nickelodeon
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
 
 
