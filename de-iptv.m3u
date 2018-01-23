@@ -25,9 +25,6 @@ http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8
 http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8
 
 
-#EXTINF:-1,ZDF HD
-http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8
-
 
 #EXTINF:-1,ZDF info
 http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8
