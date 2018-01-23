@@ -9,7 +9,7 @@ http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/ard_alpha_de.png" group-title="ARD-Alpha",ARD-Alpha
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/ard_das_erste.png" group-title="Das-Erste",Das-Erste
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/ard_das_erste.png" group-title="Das-Erste",Das-Erste
 http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
 
 
