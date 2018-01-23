@@ -24,28 +24,37 @@ http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/zdf_de.png" group-title="ZDF HD",ZDF HD
 http://zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8
 
-
-
-#EXTINF:-1,ZDF info
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/zdf_info.png" group-title="ZDF info",ZDF info
 http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8
-#EXTINF:-1,ZDF neo
-http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8
-#EXTINF:-1,Tagesschau 24
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/zdf_neo.png" group-title="ZDF neo",ZDF neo
+http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/tagesschau_24.png" group-title="Tagesschau 24",Tagesschau 24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-#EXTINF:-1,BR HD Nord
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/bayerisches-fernsehen-de.png" group-title="BR HD Nord",BR HD Nord
 http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
-#EXTINF:-1,BR HD Sued
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/bayerisches-fernsehen-de.png" group-title="BR HD Sued",BR HD Sued
 http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
-#EXTINF:-1,HR
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/hr_fernsehen_de.png" group-title="HR",HR
 http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:-1,KiKa HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/kika_de.png" group-title="KiKa HD",KiKa HD
 https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8
-#EXTINF:-1,MDR Sachsen
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/mdr_fernsehen_sachsen.png" group-title="MDR Sachsen",MDR Sachsen
 https://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8
-#EXTINF:-1,MDR Sachsen-Anhalt
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/mdr_fernsehen_sachsen.png" group-title="Sachsen-Anhalt",Sachsen-Anhalt
 http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/master.m3u8
-#EXTINF:-1,MDR Thüringen
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/mdr_fernsehen_sachsen.png" group-title="MDR Thüringen",MDR Thüringen
 http://mdr_th_hls-lh.akamaihd.net/i/livetvmdrthueringen_de@106903/master.m3u8
+
+
 #EXTINF:-1,NDR Hamburg
 https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
 #EXTINF:-1,NDR Mecklenburg-Vorpommern
