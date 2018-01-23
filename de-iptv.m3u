@@ -135,15 +135,13 @@ http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/lfm-tv.png" group-title="lfm TV",lfm TV
 https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/deluxe-music.png" group-title="L TV",L TV
+http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/playlist.m3u8
+
+
 #EXTINF:-1,Blizz TV 
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
 
-
-#EXTINF:-1,L TV (Baden Württemberg)
-http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/playlist.m3u8
-
-#EXTINF:-1,Tele Bärn
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/10000/t/XTGwenpKUhx_fbVnsiu9MQ/master.m3u8
 
 #EXTINF:-1,Tide TV
 http://62.113.210.8/tide-rtplive/mp4:liveplayout.stream/playlist.m3u8
@@ -151,11 +149,6 @@ http://62.113.210.8/tide-rtplive/mp4:liveplayout.stream/playlist.m3u8
 #EXTINF:-1,TV Mittelrhein
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8
 
-#EXTINF:-1,M4 TV (Austria)
-http://streaming.austria24.tv/live/stream_720p/playlist.m3u8
-
-#EXTINF:-1,W24 TV (Austria)
-rtmp://ms01.w24.at:1935/livepkgr/livestream2
 
 #EXTINF:-1,sky Sport News HD
 https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/index.m3u8
@@ -166,15 +159,8 @@ https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 #EXTINF:-1,TV Mittelrhein
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5714-mbr.smil/playlist.m3u8
 
-
-#EXTINF:-1,Earth TV
-http://cdn.liveonearth.com//cdnedge//smil:TWL-en.smil//playlist.m3u8
-
 #EXTINF:-1,MyTVplus
 rtmp://62.67.13.54/MyTVplus/mtvp_livestream_2.stream
-
-#EXTINF:-1,Hannover 1
-http://livestream.htp.tv/livestream.m3u8
 
 #EXTINF:-1,QS24 TV
 http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
