@@ -42,7 +42,7 @@ http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/bayerisches-fernsehen-de.png" group-title="BR HD Sued",BR HD Sued
 http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/mdr.gif" group-title="MDR Sachsen",MDR Sachsen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/deutsche_welle_tv_de.png" group-title="MDR Sachsen",MDR Sachsen
 https://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/kika_de.png" group-title="KiKa HD",KiKa HD
