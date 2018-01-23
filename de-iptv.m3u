@@ -6,7 +6,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/arte_de.png" group-title="arte",
 arte http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/3sat_de.png" group-title="ARD-Alpha",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/ard_alpha_de.png" group-title="ARD-Alpha",
 ARD-Alpha http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 
 
