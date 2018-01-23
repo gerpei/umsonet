@@ -105,69 +105,39 @@ http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/daf.png" group-title="DAF",DAF
 http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8
 
-#EXTINF:-1,Tele Züri HD
-http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_hoislpiz/t/Bnhb6PI9GIjiKE7UgQC_qg/index-s32.m3u8
-
-#EXTINF:-1,center.tv
-https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:3045-mbr.smil/playlist.m3u8
-
-#EXTINF:-1,ikono TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/ikono-tv.png" group-title="ikono TV",ikono TV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5656_KypcLhrPFd3vNZw/playlist.m3u8
 
-#EXTINF:-1,Kulturmd TV
-http://62.113.210.250/medienasa-live/_definst_/mp4:kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/kurltur-md.png" group-title="Kulturmd TV",Kulturmd TV
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:5656_KypcLhrPFd3vNZw/playlist.m3u8
 
-#EXTINF:-1,MDF.1
-http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
-
-#EXTINF:-1,OK Trier
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/ok54.png" group-title="OK 54",OK 54
 http://stream-cdn.ok54.de/hls/ok54.m3u8
 
-#EXTINF:-1,Südtirol Digital Fernsehen
-http://livestream.goinfo.it/SDFLive/sdfrosnew1/playlist.m3u8
-
-#EXTINF:-1,Sylt 1 
-http://62.67.13.54:1935/sylt1/sylt1_high.stream/chunklist.m3u8
-
-#EXTINF:-1,Alex TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/alex_tv_de.png" group-title="Alex TV",Alex TV
 https://alex-stream.rosebud-media.de/live/smil:alexlivetv.smil/playlist.m3u8
 
-#EXTINF:-1,TV Berlin
-http://stream.der-hauptstadt-sender.de/hls/Themeh4g.m3u8
-
-
-#EXTINF:-1,SWR 3 (visual Radio)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/swr3-radio.png" group-title="SWR 3 Radio",SWR 3 Radio
 http://swr3visual-lh.akamaihd.net/i/swr3visual_live@6410/index_3584_av-p.m3u8
 
-#EXTINF:-1,Allgäu TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/allgaeu-tv.png" group-title="Allgäu TV",Allgäu TV
 http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
 
-#EXTINF:-1,Go TV 
-http://nstream17.gotv.at:1936/live/gotvlive_576p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/be-at.tv_.png" group-title="Beats TV",Beats TV
+https://beats_1.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/deluxe-music.png" group-title="Deluxe Music",Deluxe Music
+https://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/kronehit.png" group-title="Kronehit TV",Kronehit TV
+http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/lfm-tv.png" group-title="lfm TV",lfm TV
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 
 #EXTINF:-1,Blizz TV 
 http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
 
-#EXTINF:-1,eoTV 
-http://cdn-europe.smartcast.de:1935/eotv/eotvhd/playlist.m3u8
-
-#EXTINF:-1,RTL Luxemburg 2
-http://live01.rtl.lu/channel2/smil:channel2/playlist.m3u8
-
-#EXTINF:-1,Beats TV
-https://beats_1.vedge.infomaniak.com/livecast/beats_1/playlist.m3u8
-
-#EXTINF:-1,Deluxe Music
-https://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8
-
-#EXTINF:-1,Folx TV
-http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/playlist.m3u8
-
-#EXTINF:-1,Kronehit TV
-http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
-
-#EXTINF:-1,lfm TV
-https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 
 #EXTINF:-1,L TV (Baden Württemberg)
 http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/playlist.m3u8
