@@ -15,9 +15,12 @@ http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/deutsche_welle_tv_de.png" group-title="Deutsche Welle",Deutsche Welle
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/ard_one.png" group-title="One HD",One HD
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 
 #EXTINF:-1,One HD
 http://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
+
 #EXTINF:-1,Phoenix
 http://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8
 #EXTINF:-1,ZDF HD
