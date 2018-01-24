@@ -14,7 +14,7 @@ Change requests such as other channels (international) or other sorting are welc
 
 have a lot of fun ..
 
-
+![alt text](https://cloud.addictivetips.com/wp-content/uploads/2017/11/Remote-path-for-PVR-IPTV-channels.jpg)
 
 
 German: ----------------------------------------------------------------------------------------------------------------------
