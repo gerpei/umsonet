@@ -141,7 +141,7 @@ http://62.113.221.4/tv2000plus-live/_definst_/mp4:livestream3.stream/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/red-bull-tv.png" group-title="USA",Red Bull TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s100563q.png" group-title="Germany",Elbekanal
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/gerpei/umsonet/master/logos/elbekanal.png" group-title="Germany",Elbekanal
 http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" group-title="GERMANY",Noa 4 Hamburg
@@ -174,38 +174,18 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/xite.png" group-title="Musik",XITE
 http://highvolume03.streampartner.nl/vleugels_hd6/livestream/playlist.m3u8
 
-
-
-
-
-
-#EXTINF:-1,tv38
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/tv38.png" group-title="Germany",tv38
 http://62.113.221.3/tv38-live/_definst_/mp4:livestream/playlist.m3u8
 
-#EXTINF:-1,Metropolregion TV
-http://62.113.210.9:1935/metropolregiontv-live/livestream/playlist.m3u8
-
-#EXTINF:-1,Nrwision
-http://129.217.183.165:1935/live/livestream/playlist.m3u8
-
-#EXTINF:-1,Dorf tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/dorftv.png" group-title="Germany",Dorf tv
 https://stream.openplayout.org/hls/dorf_high/index.m3u8
 
-#EXTINF:-1,SERVUS TV HD 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/servustv.png" group-title="Germany",SERVUS TV HD
 https://liveservustv-i.akamaihd.net/hls/live/271000/ServusTV_DE/master.m3u8
 
-#EXTINF:-1,Studio 47 Duisburg
-rtmpt://91.215.74.2/live/studio47livestream
-
-#EXTINF:-1,TV Oberfranken
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/tvo.png" group-title="Germany",TV Oberfranken
 https://586dce1287bfd.streamlock.net/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
 
-#EXTINF:-1,Franken TV
-http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
-
-#EXTINF:-1,TVM / WWTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/gerpei/umsonet/raw/master/logos/wwtv.png" group-title="Germany",TVM / WWTV
 https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/smil:5715-mbr.smil/playlist.m3u8
-
-
-
 
