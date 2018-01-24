@@ -30,4 +30,4 @@ https://raw.githubusercontent.com/gerpei/umsonet/master/de-iptv.m3u
 
 Änderungswünsche wie weitere Kanäle (Internationale) oder andere Sortierung sind willkommen.
 
-Viel Spaß..
+Viel Spaß.. 
